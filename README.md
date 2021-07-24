@@ -16,7 +16,7 @@ roscore
 cd map
 rosrun map_server map_server map.yaml
 ```
-- Run the rosbag (Credits: [KAIST Unmanned System Research Group](https://www.unmanned.kaist.ac.kr))
+- Run the rosbag (Credits: [KAIST Unmanned System Research Group](http://unmanned.kaist.ac.kr/))
 ```
 rosbag play --pause Gridmap_and_points.bag
 # you can start and pause as needed then
