@@ -2,6 +2,8 @@
 
 This package implements the A* star path-planning algorithm in c++ and integrate with the ROS environment.
 
+![](https://media.giphy.com/media/WLnP5zuGCBxaDh98Nf/giphy.gif)
+
 More information on A* algorithm: https://en.wikipedia.org/wiki/A*_search_algorithm
 
 To reproduce:
