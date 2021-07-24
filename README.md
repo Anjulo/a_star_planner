@@ -8,7 +8,8 @@ More information on A* algorithm: https://en.wikipedia.org/wiki/A*_search_algori
 
 ## To reproduce:
 - Run roscore in one window of the terminal
-``` roscore
+``` 
+roscore
 ```
 - Run map server
 ```
